@@ -1,6 +1,12 @@
 # LookUp
 Augmented Reality app for UpwardBound STEM Project at Centralia College
 
+#ssmall78
+Samuel Small
+# mazzinowicki
+Mazzi Nowicki
+=======
+
 #This is an <martensonjaden> tag
 =======
 
