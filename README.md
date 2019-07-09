@@ -31,7 +31,7 @@ Mazzi Nowicki
 Brisa Ramirez
 
 # Moqups
-https://app.moqups.com/V8XZBvW8n0/edit/page/a4d4a4d85 Ii Moqups
+https://app.moqups.com/V8XZBvW8n0/edit/page/a4d4a4d85 Ui Moqups
 https://app.moqups.com/WVuNYEQvEn/edit/page/a63eeead4 Account Moqups
 
 
