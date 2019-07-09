@@ -1,6 +1,10 @@
 # LookUp
 Augmented Reality app for UpwardBound STEM Project at Centralia College
 
+# Kyody
+Kody Heuser
+=======
+
 #Dimit029
 Dimitri Schartow
 =======
@@ -21,6 +25,7 @@ Mazzi Nowicki
 =======
 #BrisaEva
 Brisa Ramirez
+
 
 
 
